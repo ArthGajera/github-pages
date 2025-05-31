@@ -25,8 +25,6 @@ I'm **Arth Gajera**, a Computer Science graduate student and immersive technolog
 
 ### Survival Horror Game with AI-Driven Zombies
 
-![Survival Horror Game Screenshot]
-
 **Description:**  
 Immersive survival horror game built in Unreal Engine (C++), featuring a dynamic dialogue system, attack mechanics, and AI-controlled zombies. Zombies use AI perception to detect and chase players, creating tense encounters. Players earn health boosts as rewards for defeating zombies.
 
@@ -40,7 +38,6 @@ Immersive survival horror game built in Unreal Engine (C++), featuring a dynamic
   - AI perception for enemy detection and pursuit  
   - Dialogue and attack systems  
   - Reward/upgrade mechanics
-
 ---
 
 ### A Smart and Integrated Traffic Control System
