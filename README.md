@@ -30,10 +30,7 @@ Immersive survival horror game built in Unreal Engine (C++), featuring a dynamic
 
 - **Platform:** PC
 - **Engine:** Unreal Engine
-- **Demo:** 
-<video src="./Zombie Ai.mp4" width="640" height="360" controls>)
-  Your browser does not support the video tag.
-</video>
+- **Demo:** <video src="./Zombie Ai.mp4" width="640" height="360" controls>)Your browser does not support the video tag.</video>
 - **Features:**  
   - AI perception for enemy detection and pursuit  
   - Dialogue and attack systems  
