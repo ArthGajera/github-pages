@@ -1,48 +1,70 @@
-# GitHub Pages
+#  Arth Gajera
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-## Welcome
-
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-
-- **How long**: This exercise takes less than one hour to complete.
-
-In this exercise, you will:
-
-1. Enable GitHub Pages
-1. Configure your site
-1. Customize your home page
-1. Create a blog post
-1. Merge your pull request
-
-
-### How to start this exercise
-
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
-
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=Exercise:+Create+a+site+or+blog+from+your+GitHub+repositories+with+GitHub+Pages&visibility=public)
-
-<details>
-<summary>Having trouble? 🤷</summary><br/>
-
-When copying the exercise, we recommend the following settings:
-
-- For owner, choose your personal account or an organization to host the repository.
-
-- We recommend creating a public repository, since private repositories will use Actions minutes.
-
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
-
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
-
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
-
-</details>
+Welcome!  
+I'm **Arth Gajera**, a Computer Science graduate student and immersive technology enthusiast with hands-on experience in VR/AR, game development, and cybersecurity. I specialize in Unity, Unreal Engine, and AI-driven interactive experiences. Here’s a showcase of my projects, complete with demos, descriptions, and highlights.
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## About Me
+
+- **Name:** Arth Gajera
+- **Location:** Denver, CO, USA
+- **Email:** arthgajera007@gmail.com
+- **Phone:** 720-253-5869
+- **Skills:**  
+  - **Languages:** C++, C, C#, Python, Java  
+  - **Game Engines:** Unity, Unreal Engine, OpenGL  
+  - **Graphics:** OpenGL, Ray Tracing, Shader Programming  
+  - **VR/AR:** Immersive Experience Design, Interactive Programming, Haptics Feedback  
+  - **Security:** OpenFlow, Ryu, ONOS, Metasploit, Wireshark, Nmap  
+  - **AI/ML:** TensorFlow, PyTorch, Reinforcement Learning, Generative AI, Behavior Trees, State Machines, Pathfinding
+
+---
+
+## Projects
+
+### Survival Horror Game with AI-Driven Zombies
+
+![Survival Horror Game Screenshot]
+
+**Description:**  
+Immersive survival horror game built in Unreal Engine (C++), featuring a dynamic dialogue system, attack mechanics, and AI-controlled zombies. Zombies use AI perception to detect and chase players, creating tense encounters. Players earn health boosts as rewards for defeating zombies.
+
+- **Platform:** PC
+- **Engine:** Unreal Engine
+- **Demo:** 
+<video src="./Zombie Ai.mp4" width="640" height="360" controls>)
+  Your browser does not support the video tag.
+</video>
+- **Features:**  
+  - AI perception for enemy detection and pursuit  
+  - Dialogue and attack systems  
+  - Reward/upgrade mechanics
+
+---
+
+### A Smart and Integrated Traffic Control System
+
+**Description:**  
+C++-based simulation platform for testing and visualizing traffic management strategies. Introduced a density-based scheduling algorithm that improved traffic flow by 42.9% over traditional methods. Used OpenGL for interactive visualization and implemented deadlock prevention with operating system principles.
+
+- **Platform:** PC
+- **Engine:** Custom (C++/OpenGL)
+- **Features:**  
+  - Density-based traffic scheduling  
+  - Comparative analysis of scheduling algorithms (FIFO, SJF, custom)  
+  - Deadlock prevention and visualization
+
+---
+
+### Adaptive Cyber Defense Framework
+**Description:**  
+A cybersecurity framework integrating Moving Target Defense (MTD), Software-Defined Networking (SDN), and containerized honeypots. Utilizes IP randomization, dynamic honeypot deployment, and machine learning for adaptive threat response. Simulated and evaluated using Nmap and Wireshark.
+
+- **Platform:** Linux/Cloud
+- **Technologies:** Python, OpenFlow, Ryu, Mininet, ML frameworks
+- **Features:**  
+  - Dynamic network defense with SDN  
+  - Machine learning-driven threat analysis  
+  - Automated cyberattack simulations
+
